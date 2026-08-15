@@ -1,5 +1,6 @@
 package com.motoristaapp.financas.ui.expenses
 
+import androidx.compose.ui.unit.dp
 import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.rememberScrollState
 import androidx.compose.foundation.verticalScroll
